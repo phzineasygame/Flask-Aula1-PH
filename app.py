@@ -19,4 +19,4 @@ def info():
 
 def bemvindo(usuario):
     
-    return  f"<h1> Bem vindo {usuario}/h1>"
+    return  f"<h1> Bem vindo {usuario.capitalize()}!</h1>"
